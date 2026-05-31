@@ -34,8 +34,8 @@
 
 ```bash
 # Clone
-git clone https://github.com/justaman045/learning-tracker.git
-cd learning-tracker
+git clone https://github.com/justaman045/SdetTracker.git
+cd SdetTracker
 
 # Install
 npm install
